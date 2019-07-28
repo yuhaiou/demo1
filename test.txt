@@ -1,2 +1,3 @@
 text
 new1
+new2
